@@ -135,7 +135,7 @@ a:hover {
   color: white;
   padding: 6px;
   margin: 5px 10px;
-  background-color: #35156e;
+  background-color: black;
   font-size: small;
 }
 
@@ -182,7 +182,7 @@ a:hover {
 
 .project_title {
   margin-right: auto;
-  color: blue;
+  color: #bd5d38;
 }
 
 .dark .project_details {
